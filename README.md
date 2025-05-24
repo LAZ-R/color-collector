@@ -1,4 +1,4 @@
-# Color Collector (dev v0.0.1)
+# Color Collector (dev v0.0.2)
 
 **[Color based Collector game](https://laz-r.github.io/color-collector/)**
 
